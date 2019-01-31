@@ -1,24 +1,18 @@
 # Deli-*licious*
-
- Deli-*licious* is a sandwich building web app powered by HTML, CSS, and vanilla Javascript. In addition, this is my first web app built after attending a 10-week Front End Web Developer (FEWD) course provided by Betamore Academy located in Baltimore, MD.
+Deli-*licious*_React is a sandwich building web app powered by React. In addition, this is my first web app built after attending a 10-week Front End Web Developer (FEWD) course provided by Betamore Academy located in Baltimore, MD.
 
 # Purpose
- Create your own sandwich using the radio and checkbox buttons while being to view your full order in the right hand output box as you select your items.
+Re-create my original  Deli-*licious* app using React framework. 
 
 # Goal
- My goal of Deli-*licious* was to practice and expand knowledge/skills on web development.
+ My goal of Deli-*licious*_React was to practive/expand my Javascript skills and learn React framework. 
 
-# Javascript Concepts Involved
-  - Functions
+# React Concepts Involved
+  - Arrow Functions
   - Arrays
   - Objects
   - DOM Manipulation
   - Event Listeners
-  - Form Validation
-
-# Planned Enhancements
-  - [ ] Add input for customer to enter name of order
-  - [ ] Make "Your Sandwich" window static until scroll height is met
-  - [ ] Display full order on "Confirm" page
-  - [ ] Enhance responsiveness (Mobile)
-  - [ ] Ability to store and create more than 1 order
+  - Components
+  - JSX
+  - Babel

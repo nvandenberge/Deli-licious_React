@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Deli-*licious*_React is a sandwich building web app powered by React. In addition, this is my first web app built after attending a 10-week Front End Web Developer (FEWD) course provided by Betamore Academy located in Baltimore, MD.",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-react": "^6.24.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvandenberge/Deli-licious_React.git"
+  },
+  "author": "Nick Vandenberge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvandenberge/Deli-licious_React/issues"
+  },
+  "homepage": "https://github.com/nvandenberge/Deli-licious_React#readme"
+}
